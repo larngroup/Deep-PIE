@@ -1,5 +1,7 @@
 # Predicting the Inhibitory Capacity of Antimicrobial Peptides Against E. coli
 
+![Overview](framework.png)
+
 ## Descrição
 In this study, we propose an innovative approach to predict the inhibitory capacity of peptides against bacteria, specifically targeting the minimal inhibitory concentration (MIC). Building upon existing research, we introduce novel methodologies to enhance prediction accuracy and effectiveness. The rise of antibiotic-resistant bacteria underscores the critical need for alternative treatment strategies. Antimicrobial peptides (AMPs) have emerged as a promising solution due to their broad-spectrum antibacterial properties. However, accurately predicting bacterial sensitivity to these peptides remains a formidable challenge.
 
